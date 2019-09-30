@@ -1,0 +1,1 @@
+/usr/bin/c++     -g        -rdynamic CMakeFiles/celt_decoder.dir/main.cpp.o  -o bin/celt_decoder  -L/home/sali/.conan/data/opus/1.3.1/bincrafters/stable/package/d50a0d523d98c15bb147b18fa7d203887c38be8b/lib -Wl,-rpath,/home/sali/.conan/data/opus/1.3.1/bincrafters/stable/package/d50a0d523d98c15bb147b18fa7d203887c38be8b/lib -lopus -lm 

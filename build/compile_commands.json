@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sali/gitter/celt_decoder/build",
+  "command": "/usr/bin/c++   -I/home/sali/.conan/data/opus/1.3.1/bincrafters/stable/package/d50a0d523d98c15bb147b18fa7d203887c38be8b/include -I/home/sali/.conan/data/opus/1.3.1/bincrafters/stable/package/d50a0d523d98c15bb147b18fa7d203887c38be8b/include/opus     -g    -std=gnu++14 -o CMakeFiles/celt_decoder.dir/main.cpp.o -c /home/sali/gitter/celt_decoder/main.cpp",
+  "file": "/home/sali/gitter/celt_decoder/main.cpp"
+}
+]

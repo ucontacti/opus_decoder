@@ -1,0 +1,3 @@
+/home/sali/gitter/celt_decoder/build/CMakeFiles/rebuild_cache.dir
+/home/sali/gitter/celt_decoder/build/CMakeFiles/celt_decoder.dir
+/home/sali/gitter/celt_decoder/build/CMakeFiles/edit_cache.dir
